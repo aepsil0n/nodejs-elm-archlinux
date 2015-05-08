@@ -1,3 +1,5 @@
+# Maintainer: Eduard Bopp <eduard dot bopp at aepsil0n dot de>
+
 _npmname=elm
 _npmver=1.2.0
 pkgname=nodejs-elm # All lowercase
